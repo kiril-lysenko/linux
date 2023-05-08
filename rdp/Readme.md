@@ -21,6 +21,8 @@ sudo systemctl enable xrdp
 ````
 Проверить статус xrdp: Статус должен быть active:
 ````
+sudo systemctl status xrdp
+````
 Установить графическое окружение рабочего стола Xfce:
 ````
 sudo apt install xfce4
